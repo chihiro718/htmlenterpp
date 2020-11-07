@@ -1,0 +1,16 @@
+.vscode/**
+.vscode-test/**
+test/**
+.gitignore
+.yarnrc
+**/jsconfig.json
+**/*.map
+**/.eslintrc.json
+**/*.pspimage
+extension_org.js
+*.vsix
+.svn
+image_prj
+gulpfile.js
+**/*.bat
+**/*.json
